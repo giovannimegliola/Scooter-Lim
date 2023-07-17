@@ -1,0 +1,63 @@
+body {
+    background-image: url('img/background.jpg');
+    background-size: cover;
+}
+
+#mainSection {
+    margin: 20px 50px 50px 60px;
+    background-color: #000000a3;
+    border-radius: 10px; 
+}
+
+
+#container {
+    padding: 80px;
+}
+
+#logo {
+    height: 100px;
+}
+
+#logo, h1 {
+    margin-left: auto;z
+    margin-right: auto;
+    color: #00DD01;
+}
+
+nav {
+    background-color: #00DD01;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 8px;
+    padding: 15px;
+}
+
+label,p {
+    color: white;
+}
+
+section {
+    margin-top: 20px;
+}
+
+#progressBar1 {
+    height: 20px;
+    background-color: #F5B453;
+    width: 300px;
+    border-radius: 5px;
+}
+
+#progressBar2 {
+    height: 20px;
+    background-color:  #00DD01;
+    width: 500px;
+    border-radius: 5px;
+}
+
+#progressBar3 {
+    height: 20px;
+    background-color:  #eb0b1e;
+    width: 150px;
+    border-radius: 5px;
+}
